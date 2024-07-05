@@ -27,9 +27,7 @@ python 코드를 사용한 실습이지만, 프로그램의 경험이나 개념�
     - 호출 방법과 Prompt 실습 [openai_api_intro.ipynb](material/openai_api_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RowanCompany/2024_AI_workshp/blob/main/material/openai_api_intro.ipynb)
     - image 태그달기 실습 [openai_api_image.ipynb](material/openai_api_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RowanCompany/2024_AI_workshp/blob/main/material/openai_api_image.ipynb)
     - image 생성 실습 [openai_api_image_generation.ipynb](material/openai_api_image_generation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RowanCompany/2024_AI_workshp/blob/main/material/openai_api_image_generation.ipynb)
-    - 임베딩
-        - OpenAI의 임베딩 소개글 : https://openai.com/index/introducing-text-and-code-embeddings/
-        - 임베딩 실습 : [how_to_embedding.ipynb](material/how_to_embedding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RowanCompany/2024_AI_workshp/blob/main/material/how_to_embedding.ipynb)
+    - 임베딩 실습 : [how_to_embedding.ipynb](material/how_to_embedding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RowanCompany/2024_AI_workshp/blob/main/material/how_to_embedding.ipynb)
     - 임베딩을 사용한 커스텀 QnA 엔진 실습 : [customer_qna_engine.ipynb](material/customer_qna_engine.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RowanCompany/2024_AI_workshp/blob/main/material/customer_qna_engine.ipynb)
 - Rowan의 AI와 AI 로드맵 [로완의_AI.pptx](로완의_AI.pptx)
 
